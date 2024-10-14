@@ -1,7 +1,7 @@
-# AuroraScan - Network Packet Analyzer
+# AuroraScan - Network Packet Analyzer and Detector
 
 ## Overview
-AuroraScan is a network packet analyzer tool designed for capturing and analyzing network packets. This is the initial phase of development, and updates will be made periodically.
+AuroraScan is a network packet analyzer and dector  tool designed for capturing , analyzing  and detecting Maliciou network packets. This is the initial phase of development, and updates will be made periodically.
 
 ## Features
 - Packet capturing from selected network interfaces
