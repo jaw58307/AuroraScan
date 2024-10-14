@@ -26,6 +26,14 @@ AuroraScan is a network packet analyzer and dector  tool designed for capturing 
 ## Setting the IDS Playbook
 You can set the IDS playbook for detection by modifying the corresponding configuration files or settings within the application.
 
+
+
+
+
+ALSO REMEBER TO RUN .EXE FILE .......Unzip all the rar files
+ALSO Set the NETWORK INTERFACE ACCORDDDDDD!!!!
+And you may also modify thE IDS PLAYBOOK!!!!!!
+
 ## Contact Information
 Creator: Jawad Abbasi (jaw58307)
 Email: jaw58307@gmail.com
